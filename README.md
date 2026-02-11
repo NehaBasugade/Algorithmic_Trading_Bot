@@ -1,4 +1,4 @@
-# Algorithmic Trading Bot 📈  
+# Algorithmic Trading Bot 
 Comparative Study of Rule-Based, Machine Learning, and Reinforcement Learning Strategies
 
 This project is my **Final Year Research Project (RIT, 2023)** focused on building and comparing three different approaches to algorithmic trading using historical stock market data.
